@@ -1,4 +1,4 @@
-CREATE TABLE person(
+CREATE table person(
     id UUID NOT NULL PRIMARY KEY,
     name VARCHAR(100) NOT NULL
 );
